@@ -1,0 +1,24 @@
+Categoria 1: Agregação Simples e Filtro de Linha
+Média de Peso na América: Qual é a média de peso de todas as pessoas que não são da nacionalidade 'Brasil'?
+
+Profissões Mais Baixas: Liste cada profissão e a altura mínima encontrada em cada uma. Ordene o resultado pela altura mínima, da menor para a maior.
+
+Categoria 2: Filtragem de Grupos 
+Contagem por Gênero: Mostre os Gêneros que possuem mais de 10 pessoas registradas na tabela. Exiba o Gênero e o total de pessoas.
+
+Profissões Raras: Liste todas as profissões (e a contagem de pessoas nelas) que têm menos de 3 pessoas registradas no total.
+
+Categoria 3: Subqueries Simples (Comparação com o Total)
+Acima do Peso Máximo Estrangeiro: Liste o nome, nacionalidade e peso de todas as pessoas que pesam mais do que a pessoa mais pesada da 'Itália'.
+
+Pessoas Medianas: Liste o nome e o peso de todas as pessoas que pesam exatamente o mesmo que a média geral de peso da tabela.
+
+Categoria 4: A Trindade e Subquery Correlacionada 
+Profissões Altas e Antigas: Liste as profissões cuja média de altura é superior a 1.80m E que só incluem pessoas nascidas antes de 1995.
+
+Altura vs. Média da Profissão: Liste o nome, profissao e altura de todas as pessoas que são mais baixas que a média de altura de todas as pessoas que exercem a mesma profissão.
+
+Categoria 5: Bônus de Manipulação e Múltiplas Condições
+Quem é Solteiro(a)? (Strings): Liste o nome de todas as pessoas cuja profissão termina com a palavra 'Analista' (ou 'DBA', se for mais comum na sua tabela).
+
+Gêneros Leves e Altos: Liste os Gêneros cujo peso médio é menor que a média de peso geral de toda a tabela E cuja altura máxima no grupo é maior que 1.90m.
